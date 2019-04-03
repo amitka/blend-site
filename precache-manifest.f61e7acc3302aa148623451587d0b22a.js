@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/amitka/blend-site/static/js/runtime~main.53bb9077.js"
   },
   {
-    "revision": "9fe426650602bda8444a",
-    "url": "/amitka/blend-site/static/js/main.4ff89d94.chunk.js"
+    "revision": "7356c608be850c694e5b",
+    "url": "/amitka/blend-site/static/js/main.d46a2aa7.chunk.js"
   },
   {
-    "revision": "6c79bf4684e99538fd7c",
-    "url": "/amitka/blend-site/static/js/2.8b3d88bd.chunk.js"
+    "revision": "6a27dadc450e97fc40e6",
+    "url": "/amitka/blend-site/static/js/2.df7ea54e.chunk.js"
   },
   {
-    "revision": "9fe426650602bda8444a",
+    "revision": "7356c608be850c694e5b",
     "url": "/amitka/blend-site/static/css/main.50a6abdd.chunk.css"
   },
   {
-    "revision": "3f0160bc26954de0187f74902c3e5d61",
+    "revision": "cdd5e577219a6fff301af21d7007287a",
     "url": "/amitka/blend-site/index.html"
   }
 ];

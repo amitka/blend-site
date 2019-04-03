@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/amitka/blend-site/precache-manifest.bae9c9a9dffa1fa36dfaf1ecb71d7bef.js"
+  "/amitka/blend-site/precache-manifest.f61e7acc3302aa148623451587d0b22a.js"
 );
 
 workbox.clientsClaim();
