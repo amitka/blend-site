@@ -1,14 +1,14 @@
 {
-  "main.css": "/amitka/blend-site/static/css/main.50a6abdd.chunk.css",
-  "main.js": "/amitka/blend-site/static/js/main.d46a2aa7.chunk.js",
-  "main.js.map": "/amitka/blend-site/static/js/main.d46a2aa7.chunk.js.map",
-  "runtime~main.js": "/amitka/blend-site/static/js/runtime~main.53bb9077.js",
-  "runtime~main.js.map": "/amitka/blend-site/static/js/runtime~main.53bb9077.js.map",
-  "static/js/2.df7ea54e.chunk.js": "/amitka/blend-site/static/js/2.df7ea54e.chunk.js",
-  "static/js/2.df7ea54e.chunk.js.map": "/amitka/blend-site/static/js/2.df7ea54e.chunk.js.map",
-  "index.html": "/amitka/blend-site/index.html",
-  "precache-manifest.f61e7acc3302aa148623451587d0b22a.js": "/amitka/blend-site/precache-manifest.f61e7acc3302aa148623451587d0b22a.js",
-  "service-worker.js": "/amitka/blend-site/service-worker.js",
-  "static/css/main.50a6abdd.chunk.css.map": "/amitka/blend-site/static/css/main.50a6abdd.chunk.css.map",
-  "static/media/logo.svg": "/amitka/blend-site/static/media/logo.5d5d9eef.svg"
+  "main.css": "/blend-site/static/css/main.50a6abdd.chunk.css",
+  "main.js": "/blend-site/static/js/main.8ccf4332.chunk.js",
+  "main.js.map": "/blend-site/static/js/main.8ccf4332.chunk.js.map",
+  "runtime~main.js": "/blend-site/static/js/runtime~main.049157e2.js",
+  "runtime~main.js.map": "/blend-site/static/js/runtime~main.049157e2.js.map",
+  "static/js/2.8b3d88bd.chunk.js": "/blend-site/static/js/2.8b3d88bd.chunk.js",
+  "static/js/2.8b3d88bd.chunk.js.map": "/blend-site/static/js/2.8b3d88bd.chunk.js.map",
+  "index.html": "/blend-site/index.html",
+  "precache-manifest.1863dfdcd8fc4b525a8db1de9da0314a.js": "/blend-site/precache-manifest.1863dfdcd8fc4b525a8db1de9da0314a.js",
+  "service-worker.js": "/blend-site/service-worker.js",
+  "static/css/main.50a6abdd.chunk.css.map": "/blend-site/static/css/main.50a6abdd.chunk.css.map",
+  "static/media/logo.svg": "/blend-site/static/media/logo.5d5d9eef.svg"
 }
